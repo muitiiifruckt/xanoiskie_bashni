@@ -87,7 +87,7 @@
             // 
             this.numericUpDown2.Location = new System.Drawing.Point(5, 81);
             this.numericUpDown2.Maximum = new decimal(new int[] {
-            5,
+            6,
             0,
             0,
             0});
@@ -134,7 +134,7 @@
             this.button_solve.Name = "button_solve";
             this.button_solve.Size = new System.Drawing.Size(115, 23);
             this.button_solve.TabIndex = 0;
-            this.button_solve.Text = "Solve";
+            this.button_solve.Text = "Solve/ Reset";
             this.button_solve.UseVisualStyleBackColor = true;
             this.button_solve.Click += new System.EventHandler(this.button_solve_Click);
             // 
